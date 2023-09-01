@@ -4,9 +4,6 @@ __pycache__/
 # Byte-compiled files
 *.pyc
 
-# Ignore any saved high scores or game states (adjust this as needed)
-high_scores.txt
-game_state.txt
 
 # Ignore any log files (adjust this as needed)
 *.log
