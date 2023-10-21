@@ -2,6 +2,9 @@
 
 This is a simple Snake game implemented in Python using the Turtle graphics library. In this game, you control a snake that moves around the screen, eating food to grow while avoiding collisions with walls and itself.
 
+## Screenshot
+![Snake](https://github.com/CharlesFabicki/Python.Snake.Game/assets/103677730/635bfe8a-a5df-4fbb-a521-aff74e96b005)
+
 ## How to Play
 
 1. Clone or download this repository to your local machine.
