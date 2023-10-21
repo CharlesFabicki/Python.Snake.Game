@@ -1,15 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files and directories (modify these based on your development environment)
+.vscode/
+.idea/
+*.log
+
+# Compiled Python files
+__init__.py
+
+# Compiled extensions
+*.so
+
 # Compiled Python files
 __pycache__/
 
-# Byte-compiled files
-*.pyc
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
+# Windows specific
+Thumbs.db
 
-# Ignore any log files (adjust this as needed)
-*.log
+# macOS specific
+.DS_Store
 
-# Ignore any virtual environment folders
-venv/
-
-# Ignore PyCharm/IntelliJ IDEA project files
-.idea/
+# Temporary files
+*.tmp
+*.tmp.*
+*.swp
+*.swo
