@@ -155,7 +155,6 @@ while True:
         new_segment.penup()
         segments.append(new_segment)
 
-        # Increase the score by 1
 
     # Move the end segments first in reverse order
     for i in range(len(segments) - 1, 0, -1):
